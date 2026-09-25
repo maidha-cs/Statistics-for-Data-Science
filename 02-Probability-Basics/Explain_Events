@@ -4,4 +4,9 @@ events occucr in connection with each other , then their simultaneous occurance 
 **Conditional Probability**
                             This probability of the 
 happening of an B events is k/a as is already happend is called the  
-ss
+**Mutually Independent**  
+**Complementary Events**
+                        E.g: p(A)+P(A') = 1
+P(A')= 1-P(A)
+**Happening of At Least one Event**
+  * Example : P1P2+P1(1-P2)+P2(1-P1)=1-(1-P1)(1-P2)
