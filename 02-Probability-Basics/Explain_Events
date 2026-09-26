@@ -10,3 +10,9 @@ happening of an B events is k/a as is already happend is called the
 P(A')= 1-P(A)
 **Happening of At Least one Event**
   * Example : P1P2+P1(1-P2)+P2(1-P1)=1-(1-P1)(1-P2)
+  ## Probability in the terms of ODD in favors and ODDs against the event**
+  **Odd in Favors** 
+    * Formula : P(A) = X/Y & P(A)= Y/X+Y
+ **Odd in Against** 
+    * Formula :  
+s
