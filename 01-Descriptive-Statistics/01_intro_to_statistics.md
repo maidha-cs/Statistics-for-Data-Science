@@ -149,73 +149,44 @@ Mode = 5
 ```
 This tells us that **5-star rating is the most common rating**
 # Mean vs Median vs Mode
-
 | Measure | Simple Meaning    | Use                              |
 | ------- | ----------------- | -------------------------------- |
 | Mean    | Average value     | To find the overall average      |
 | Median  | Middle value      | To find the typical middle value |
 | Mode    | Most common value | To find the most frequent value  |
 
----
-
 # Real-Life Example
-
 Suppose house prices are:
-
-```text
+```
 30, 32, 35, 38, 40, 45, 500
 ```
-
 Here, `500` is an unusually large value.
-
 ### Mean
-
 The mean becomes high because of the `500` value.
-
 ### Median
-
 The median is:
-
-```text
+```
 38
 ```
-
 It gives a better idea of the middle house price.
-
 ### Mode
-
 There is no mode because no value is repeated.
-
 ### Lesson
-
 When a dataset contains extreme values or outliers, the **median can be more useful than the mean** for describing the center of the data.
-
----
-
 # Central Tendency in Data Analysis
-
 In real Data Analysis, we often use Mean, Median, and Mode to quickly understand a dataset.
-
 For example, in a customer review dataset:
-
 ```text
 Mean Rating = 4.2
 Median Rating = 4
 Mode Rating = 5
 ```
-
 This tells us:
-
 * The average rating is 4.2.
 * The middle rating is 4.
 * The most common rating is 5.
-
 These values help us understand the data before doing deeper analysis.
-
----
-
 # Key Points to Remember
-
 * **Mean** = Average
 * **Median** = Middle value
 * **Mode** = Most common value
@@ -224,16 +195,9 @@ These values help us understand the data before doing deeper analysis.
 * Mode tells us the most frequent value.
 * Central Tendency helps us understand the center of a dataset.
 * In Data Analysis, we should not only calculate values; we should also **interpret what they mean**.
-
 ## Simple Memory Trick
-
-```text
+```
 Mean   → Average
 Median → Middle
 Mode   → Most Common
-```
-
-
-
-                             
-
+s
