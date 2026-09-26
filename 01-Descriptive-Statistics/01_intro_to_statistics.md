@@ -54,72 +54,45 @@ The main types are:
 3. Position
 4. Distribution
 In this section, we focus on **Central Tendency**.
-
 # Central Tendency:
 Central Tendency tells us the **center or typical value of a dataset**.
 There are three main measures of central tendency:
-
 1. Mean
 2. Median
 3. Mode
-
----
-
 ## 1. Mean
-
 Mean is the **average value** of a dataset.
-
 ### Formula
-
-```text
+```
 Mean = Sum of all values / Number of values
 ```
-
 ### Example
-
-```text
+```
 10, 20, 30, 40, 50
 ```
-
 First, add all values:
-
-```text
+```
 10 + 20 + 30 + 40 + 50 = 150
 ```
-
 There are 5 values.
-
-```text
+```
 Mean = 150 / 5
 Mean = 30
 ```
-
 So, the mean is **30**.
-
 ### Real-Life Example
-
 Suppose five students get these marks:
-
-```text
+```
 60, 70, 80, 90, 100
 ```
-
 The mean tells us the **average marks of the students**.
-
 ### Important Point
-
 Mean can be strongly affected by **outliers**.
-
 For example:
-
-```text
+```
 30, 32, 35, 40, 45, 500
 ```
-
 The value `500` is very different from the other values, so it increases the mean.
-
----
-
 # 2. Median
 
 Median is the **middle value** of a dataset after sorting the values.
