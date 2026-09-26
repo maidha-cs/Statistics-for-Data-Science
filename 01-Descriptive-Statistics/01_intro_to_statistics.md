@@ -33,48 +33,30 @@ For Example : age , height , weight
 
 
 # Descriptive Statistics
-
 ## What is Descriptive Statistics?
-
 Descriptive Statistics is a part of statistics that helps us **summarize, organize, and understand data**.
-
 It tells us what the data looks like without making predictions.
-
 ### Example
-
 Suppose we have customer ratings:
-
-```text
+```
 5, 4, 5, 3, 4, 5, 2, 4
 ```
-
 Using descriptive statistics, we can find:
-
 * Average rating
 * Middle rating
 * Most common rating
 * Minimum and maximum values
 * How much the data is spread out
-
----
-
 # Types of Descriptive Statistics
-
 The main types are:
-
 1. Central Tendency
 2. Dispersion
 3. Position
 4. Distribution
-
 In this section, we focus on **Central Tendency**.
 
----
-
-# Central Tendency
-
+# Central Tendency:
 Central Tendency tells us the **center or typical value of a dataset**.
-
 There are three main measures of central tendency:
 
 1. Mean
