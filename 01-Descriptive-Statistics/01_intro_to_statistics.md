@@ -92,104 +92,62 @@ For example:
 ```
 30, 32, 35, 40, 45, 500
 ```
-The value `500` is very different from the other values, so it increases the mean.
+The value `500` is very different from the other values, so it increases the mean.s
 # 2. Median
-
 Median is the **middle value** of a dataset after sorting the values.
-
 ### Example
-
-```text
+```
 10, 20, 30, 40, 50
 ```
-
-The middle value is:
-
-```text
-30
-```
-
+The middle value is: 30
 So:
-
-```text
+```
 Median = 30
 ```
-
 ### Even Number of Values
-
 If there are an even number of values, we take the average of the two middle values.
-
 Example:
-
-```text
+```
 10, 20, 30, 40
 ```
-
 The two middle values are:
-
-```text
+```
 20 and 30
 ```
-
 So:
-
-```text
+```
 Median = (20 + 30) / 2
 Median = 25
 ```
-
 ### Important Point
-
 Median is less affected by outliers than the mean.
-
 For example:
-
-```text
+```
 30, 32, 35, 40, 45, 500
 ```
-
 The value `500` does not move the median as much as it moves the mean.
-
----
-
 # 3. Mode
-
 Mode is the **value that appears most often** in a dataset.
-
 ### Example
-
-```text
+```
 2, 3, 3, 4, 5, 3, 6
 ```
-
 The value `3` appears most often.
-
 So:
-
-```text
+```
 Mode = 3
 ```
-
 ### Real-Life Example
-
 Suppose product ratings are:
-
-```text
+```
 5, 4, 5, 3, 5, 4, 5
 ```
-
 The rating `5` appears most often.
-
 Therefore:
-
-```text
+```
 Mode = 5
 ```
-
-This tells us that **5-star rating is the most common rating**.
-
----
-
+This tells us that **5-star rating is the most common rating**
 # Mean vs Median vs Mode
 
 | Measure | Simple Meaning    | Use                              |
