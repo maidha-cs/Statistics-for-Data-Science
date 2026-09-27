@@ -200,4 +200,3 @@ These values help us understand the data before doing deeper analysis.
 Mean   → Average
 Median → Middle
 Mode   → Most Common
-s
